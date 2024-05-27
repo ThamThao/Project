@@ -1,0 +1,35 @@
+** admin side**
+
+show the list of pet and owner name for every day section
+    
+add / delete user  ** delete user's file
+
+
+save linked list to file
+
+
+
+
+sort by pet name ??
+
+
+seach for owner
+search for pet name
+
+** user **
+user convert to linked list
+
+
+** program **
+
+staycation date use linked list
+daycare use linked list
+
+
+staycation date use linked list to check/book appointment  *max 5 pet one day
+training set to saturday max 6pet per session ** one month 4 training session
+daycare change to grooming  ** 3 session per day. customer can only book for that particular month.
+    let user search for particular day to check whether available for booking
+    if available ask user want to book or not
+
+
